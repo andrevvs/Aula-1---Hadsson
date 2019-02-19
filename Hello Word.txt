@@ -10,7 +10,7 @@ Aula 1 - Primeiro Hello Word
 
 int main() {
 	
-	printf("Hello Word");
+	printf("Hadsson gay");
 	
 	return 0;
 	
